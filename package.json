@@ -1,0 +1,23 @@
+{
+  "name": "express-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahzadkhan3iii7/testexpresslab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahzadkhan3iii7/testexpresslab/issues"
+  },
+  "homepage": "https://github.com/shahzadkhan3iii7/testexpresslab#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
